@@ -79,7 +79,7 @@ var i = Math.floor(31*Math.random())
 		   
 		   var a_plk = new Array ();
 
-        a_plk[0] = "https://i.imgur.com/zdcqaaG.jpeg";
+        a_plk[0] = "https://i.ibb.co/P9Q9ZPj/IMG-20211127-WA0189.jpg";
         a_plk[1] = "https://mcdn.wallpapersafari.com/medium/20/69/juFNVl.jpg";
         a_plk[2] = "https://cdn.wallpapersafari.com/51/57/WXxpck.jpg";
         a_plk[3] = "https://cdn.wallpapersafari.com/72/42/nAdV2j.jpg";
