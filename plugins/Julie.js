@@ -5,7 +5,7 @@ const fs = require('fs');
 if (Config.WORKTYPE == 'private') {
 
   Julie.addCommand(
-    { pattern: "help ?(.*)", fromMe: true, dontAddCommandList: true },
+    { pattern: "sethu ?(.*)", fromMe: true, dontAddCommandList: true },
     async (message, match) => {
       let CMD_HELP = "";
       Julie.commands.map(async (command) => {
