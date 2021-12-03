@@ -324,7 +324,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '👑 *ERROR REPORT[𝐍𝐎𝐓𝐘]* 👑' +
+                                await conn.sendMessage(conn.user.jid, '👑 *ERROR REPORT[𝐍𝐎𝐓𝐘S̷E̷T̷H̷U̷👰]* 👑' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n*Support group*\nchat.whatsapp.com/EWLP9VPgYmgGf6NORWSKk ' 
                                     , MessageType.text);
                             }
